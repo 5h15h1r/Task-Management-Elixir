@@ -1,12 +1,8 @@
 # Task Management
 <div align="center" id = "top">
 <img src="https://inspired.consulting/wp-content/uploads/2021/06/elixirlogo-768x576.png"  alt="socialx logo" width=300/>
-  <h4 style="text-align: left">This is a Phoenix application that provides an API for managing tasks associated with users. It allows you to create users, create tasks for a user, retrieve tasks for a user, retrieve a specific task for a user, update a task for a user, and delete a task for a user. The application uses an Agent HashMap to store and manage the data.</h4> 
+  <h4 align="left">This is a Phoenix application that provides an API for managing tasks associated with users. It allows you to create users, create tasks for a user, retrieve tasks for a user, retrieve a specific task for a user, update a task for a user, and delete a task for a user. The application uses an Agent HashMap to store and manage the data.</h4> 
 </div>
-
-
-
-This is a Phoenix application that provides an API for managing tasks associated with users. It allows you to create users, create tasks for a user, retrieve tasks for a user, retrieve a specific task for a user, update a task for a user, and delete a task for a user. The application uses an Agent HashMap to store and manage the data.
 
 ## Dependencies
 
